@@ -24,5 +24,4 @@ $ vagrant up
 
 
 
-
 https://twitter.com/chojayr
